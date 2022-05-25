@@ -1,0 +1,8 @@
+numpy
+pandas
+pytest
+cookiecutter
+statsmodels
+matplotlib
+scipy
+notebook
